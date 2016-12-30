@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:MyTask"
              x:Class="MyTask.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label Text="Welcome to my first Xamarin Forms app!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
